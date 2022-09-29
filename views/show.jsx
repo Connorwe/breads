@@ -19,7 +19,6 @@ function Show ({bread}) {
         <img src={bread.image} alt={bread.name} />
         <li><a href="/breads">Go home</a></li>
     </Default>
-      
       )
   }
   
